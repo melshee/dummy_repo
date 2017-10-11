@@ -26,7 +26,9 @@ making a branch "upstream" = allowing yourself to push to it
  
  
  
- 
- 
+git push: assumes you have write permissions for the repo
+
+in open-source projects, you prob won't have these permissions. Instead you do..
+pull request: asks someone with write permissions: "please accept this code I wrote/modified and add it to your repo"
  
 
