@@ -1,2 +1,5 @@
 # dummy_repo
-Example repo for ECS 161
+'
+
+hello hi 
+EEEEEExample repo for ECS 161
